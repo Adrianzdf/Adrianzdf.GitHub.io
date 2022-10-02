@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Look Up</title>
+        </head>
+        <body>
+            <div>
+                <searchBx>
+                    <input type="text" value="query"
+                    <button>Q</button>
+                </searchBx>
+            </div>
+        </body>
+        <section>
+            button.oneclick=function(){
+            let url = 'https://github.com/Adrianzdf/Adrianzdf.GitHub.io, + /look?q=, + query.value'
+            winder.open(url)}
+        </section>
+    </html>
+
+
+ 
